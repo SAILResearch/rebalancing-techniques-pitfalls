@@ -1,4 +1,4 @@
-# Online Appendinx for "The Impact of Class Rebalancing Techniques on the Performance and Interpretation of Defect Prediction Models"
+# Online Appendix for "The Impact of Class Rebalancing Techniques on the Performance and Interpretation of Defect Prediction Models"
 
 Chakkrit Tantithamthavorn, Ahmed E. Hassan, and Kenichi Matsumoto
 
@@ -17,4 +17,4 @@ Hence, AUC should be used as a standard measure when comparing defect prediction
 
 - [Datasets](https://github.com/software-analytics/DefectData)
 
-- [Raw Results](https://github.com/SAILResearch/rebalancing-techniques-pitfalls/raw-auc.csv)
+- [Raw Results](https://github.com/SAILResearch/rebalancing-techniques-pitfalls/blob/master/raw-auc.csv)
