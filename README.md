@@ -11,7 +11,7 @@ We also construct statistical models to better understand in which experimental 
 Through a case study of 101 datasets that span across proprietary and open-source systems, we recommend that class rebalancing techniques are necessary when quality assurance teams wish to increase the completeness of identifying software defects (i.e., Recall).
 However, class rebalancing techniques should be avoided when interpreting defect prediction models.
 We also find that class rebalancing techniques do not impact the AUC measure.
-Hence, AUC should be used as a standard measure when comparing defect prediction models.
+Hence, AUC should be used in lieu with threshold-independent measures when comparing defect prediction models.
 
 ## Data and Raw Results
 
